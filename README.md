@@ -3,9 +3,6 @@
 Advanced analytics for badminton games, using computer vision and gen AI.
 
 
-| ![Image 1](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/208/548/datas/gallery.jpg) | ![Image 2](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/208/550/datas/gallery.jpg) | ![Image 3](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/208/549/datas/gallery.jpg) |
-|-------------------------|-------------------------|-------------------------|
-
 
 
 ## Inspiration
