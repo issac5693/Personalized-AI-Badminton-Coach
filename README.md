@@ -1,10 +1,7 @@
-# Baddy Buddy
+# Personalized AI Badminton Coach
 
-Advanced analytics for badminton games, using computer vision and gen AI. 1st place entertainment track at SBHacks 11.
+Advanced analytics for badminton games, using computer vision and gen AI.
 
-[YouTube Demo Link](https://www.youtube.com/watch?v=J8pcAyOfyFE)
-
-[Devpost Submission](https://devpost.com/software/baddy-buddy)
 
 | ![Image 1](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/208/548/datas/gallery.jpg) | ![Image 2](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/208/550/datas/gallery.jpg) | ![Image 3](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/208/549/datas/gallery.jpg) |
 |-------------------------|-------------------------|-------------------------|
@@ -14,8 +11,6 @@ Advanced analytics for badminton games, using computer vision and gen AI. 1st pl
 ## Inspiration
 
 There are over 300 million badminton players looking to improve their game. There’s no way coaches can give personalized insights to so many people!
-
-Our teammate Ishan is a **top 20** ranked player in the nation and as a private coach to many, he knows how tedious it is to scrub through game footage to collect stats. The goal of **Baddy Buddy** is to automate this process so coaches and players like Ishan can focus on their game, not go insane!
 
 ## How we built it
 
